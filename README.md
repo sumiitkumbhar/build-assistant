@@ -2,6 +2,17 @@
 
 AI assistant for planning, building regulations, and document-grounded compliance checks.
 
+## Screenshots
+
+### Home interface
+![Home interface](./public/screenshots/home.png)
+
+### Query in progress
+![Query in progress](./public/screenshots/loading.png)
+
+### Grounded answer with citations
+![Grounded answer with citations](./public/screenshots/answer.png)
+
 ## What it does
 
 Build Assistant is a prototype application that answers planning and construction-related questions using indexed source documents, clause-level retrieval, and citation-backed responses.
@@ -26,8 +37,7 @@ Build Assistant is a prototype application that answers planning and constructio
 
 ## Status
 
-This is a working prototype and portfolio project.
-It is focused on grounded retrieval, speed, and practical usability rather than full production completeness.
+This is a working prototype and portfolio project. It is focused on grounded retrieval, speed, and practical usability rather than full production completeness.
 
 ## Notes
 
